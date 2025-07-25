@@ -1,5 +1,5 @@
 
-Flask App with CI/CD Pipeline and Terraform Infrastructure
+#Flask App with CI/CD Pipeline and Terraform Infrastructure
 This project demonstrates a complete CI/CD (Continuous Integration/Continuous Deployment) pipeline for a simple "Hello World" Flask application. The pipeline is managed by Jenkins, the application is containerized using Docker, and the infrastructure on AWS is provisioned using Terraform.
 
 Project Structure
